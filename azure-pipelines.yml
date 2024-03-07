@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: some-agent-pool
+  name: tf-elastic-pool
   vmImage: ubuntu-latest
 
 steps:
