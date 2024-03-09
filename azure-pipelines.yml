@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: test-123
+  name: test-test-pool
   vmImage: ubuntu-latest
 
 steps:
