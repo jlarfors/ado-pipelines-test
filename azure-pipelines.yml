@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: example-example
+  name: example-super-fast-agents
   vmImage: ubuntu-latest
 
 steps:
